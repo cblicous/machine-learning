@@ -103,3 +103,32 @@ neural Networks
 -> large networks : teuer zu rechnen , eher overfitting, regularization nutzen zum re
 
 Hidden Layers: Tranieren des NN und vegleichen
+
+
+
+precision : true positives / all predicted positives
+recall: true positives / no of actual postivtes
+
+
+SVM
+vs Logistic Regression
+vs neural-network
+
+SVM: gerade statt 1/e^x funktion daher gerade linie
+
+Support Vector Machines können sowohl zur Klassifizierung als auch zur Regression verwendet werden.
+
+https://de.wikipedia.org/wiki/Support_Vector_Machine
+
+Diese Bedingung ist für reale Trainingsobjektmengen im Allgemeinen nicht erfüllt. Support Vector Machines verwenden im Fall nichtlinear trennbarer Daten den Kernel-Trick, um eine nichtlineare Klassengrenze einzuziehen.
+
+SVM hat verschiedene kernel unter anderem auch String Kernels etc
+
+Logistic regression und SVM without a kernel are pretty similar
+
+SVM is most powerful
+
+
+Principal Component Analysis (PCA)
+Hauptkomponentenanalyse
+Reduktion der Faktoren um kleinere Variablenmengen durch Linearkombinationen zu bekommen 
